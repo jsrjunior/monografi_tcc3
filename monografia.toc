@@ -1,0 +1,56 @@
+\changetocdepth {3}
+\select@language {brazil}
+\contentsline {chapter}{\chapternumberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{14}{chapter.1}
+\contentsline {section}{\numberline {1.1}Objetivos}{15}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Objetivo Geral}{15}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Objetivos Espec\IeC {\'\i }ficos}{15}{subsection.1.1.2}
+\contentsline {section}{\numberline {1.2}Organiza\IeC {\c c}\IeC {\~a}o do Trabalho}{16}{section.1.2}
+\contentsline {chapter}{\chapternumberline {2}Trabalhos Relacionados}{17}{chapter.2}
+\contentsline {chapter}{\chapternumberline {3}Referencial Te\IeC {\'o}rico}{18}{chapter.3}
+\contentsline {section}{\numberline {3.1}Preju\IeC {\'\i }zo causado pelo Transtorno de D\IeC {\'e}ficit de Aten\IeC {\c c}\IeC {\~a}o ao aprendizado}{18}{section.3.1}
+\contentsline {section}{\numberline {3.2}Jogos e Brincadeiras no Auxilio da Aprendizagem}{19}{section.3.2}
+\contentsline {section}{\numberline {3.3}Tecnologias}{20}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Levantamento de Requisitos}{20}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Modelagem de Software com UML}{21}{subsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.2.1}Diagrama de caso de uso}{22}{subsubsection.3.3.2.1}
+\contentsline {subsubsection}{\numberline {3.3.2.2}Diagrama de classes}{22}{subsubsection.3.3.2.2}
+\contentsline {subsection}{\numberline {3.3.3}Motores Gr\IeC {\'a}ficos (\textit {Game} \textit {Engine})}{23}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}\textit {Game} \textit {Design}}{23}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}Linguagem C\# (C sharp)}{24}{subsection.3.3.5}
+\contentsline {section}{\numberline {3.4}Ferramentas}{24}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Astah Professional}{25}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Unity 5}{25}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Adobe Photoshop}{26}{subsection.3.4.3}
+\contentsline {chapter}{\chapternumberline {4}Metodologia}{27}{chapter.4}
+\contentsline {section}{\numberline {4.1}An\IeC {\'a}lise de Requisitos}{27}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Jogador (\textit {Player})}{28}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Inimigo}{28}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Diagrama de Caso de Uso do \textit {Adventures Of Learning}}{28}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Diagrama de Classe do \textit {Adventures Of Learning}}{29}{subsection.4.1.4}
+\contentsline {section}{\numberline {4.2}Desenvolvimento do Jogo}{31}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Interface Gr\IeC {\'a}fica}{31}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Modelagem do Jogo}{31}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Funcionalidades do Unity 3D Utilizadas}{32}{subsection.4.2.3}
+\contentsline {subsubsection}{\numberline {4.2.3.1}Project}{32}{subsubsection.4.2.3.1}
+\contentsline {subsubsection}{\numberline {4.2.3.2}Scripts}{32}{subsubsection.4.2.3.2}
+\contentsline {subsubsection}{\numberline {4.2.3.3}Sprite}{32}{subsubsection.4.2.3.3}
+\contentsline {subsubsection}{\numberline {4.2.3.4}Scene}{33}{subsubsection.4.2.3.4}
+\contentsline {subsubsection}{\numberline {4.2.3.5}Game Objects}{34}{subsubsection.4.2.3.5}
+\contentsline {subsubsection}{\numberline {4.2.3.6}Components}{34}{subsubsection.4.2.3.6}
+\contentsline {subsubsection}{\numberline {4.2.3.7}Anima\IeC {\c c}\IeC {\~a}o}{36}{subsubsection.4.2.3.7}
+\contentsline {subsubsection}{\numberline {4.2.3.8}Inimigo}{37}{subsubsection.4.2.3.8}
+\contentsline {subsubsection}{\numberline {4.2.3.9}Efeitos Sonoros}{39}{subsubsection.4.2.3.9}
+\contentsline {subsection}{\numberline {4.2.4}Defini\IeC {\c c}\IeC {\~o}es de Final de Jogo}{39}{subsection.4.2.4}
+\contentsline {section}{\numberline {4.3}Avalia\IeC {\c c}\IeC {\~a}o}{42}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Participantes}{42}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Metodologia de Teste}{42}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Resultados}{43}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}Considera\IeC {\c c}\IeC {\~o}es Finais}{44}{subsection.4.3.4}
+\contentsline {chapter}{\chapternumberline {5}Conclus\IeC {\~a}o}{46}{chapter.5}
+\contentsline {chapter}{Refer\^encias}{47}{section*.13}
+\renewcommand *{\cftappendixname }{AP\^ENDICE \space }
+\contentsline {part}{Ap\^endices}{49}{section*.14}
+\contentsline {appendix}{\chapternumberline {A}Termo de Autoriza\IeC {\c c}\IeC {\~a}o}{50}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}Termo de Consentimento}{52}{appendix.B}
+\contentsline {appendix}{\chapternumberline {C}Ficha de Avalia\IeC {\c c}\IeC {\~a}o de Comportamento Geral}{54}{appendix.C}
+\contentsline {appendix}{\chapternumberline {D}Ficha de Avalia\IeC {\c c}\IeC {\~a}o Individual}{56}{appendix.D}

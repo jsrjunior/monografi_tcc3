@@ -1,0 +1,166 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v<VERSION> }
+
+\bibitem[AAP 2001]{app}
+\abntrefinfo{AAP}{AAP}{2001}
+{AAP, A.~A. of P. Clinical pratice guideline: Treatment of the school-aged
+  child with adhd.
+2001.}
+
+\bibitem[Andrade et al. 2004]{andrade2004mapa}
+\abntrefinfo{Andrade et al.}{ANDRADE et al.}{2004}
+{ANDRADE, L. et al. Mapa do zool{\'o}gico--captura cognitiva para
+  disfun{\c{c}}{\~a}o executiva. In:  \emph{Brazilian Symposium on Computers in
+  Education (Simp{\'o}sio Brasileiro de Inform{\'a}tica na
+  Educa{\c{c}}{\~a}o-SBIE)}. [S.l.: s.n.], 2004. v.~1, n.~1, p. 479--486.}
+
+\bibitem[Belluzzo 2002]{belluzzo2002}
+\abntrefinfo{Belluzzo}{BELLUZZO}{2002}
+{BELLUZZO, R. C.~B. A educação na sociedade do conhecimento.
+2002.}
+
+\bibitem[Butnik 2005]{butnik2005neurofeedback}
+\abntrefinfo{Butnik}{BUTNIK}{2005}
+{BUTNIK, S.~M. Neurofeedback in adolescents and adults with attention deficit
+  hyperactivity disorder.
+\emph{Journal of Clinical Psychology}, Brandon, Vt.[etc.] Clinical Psychology
+  Pub. Co., v.~61, n.~5, p. 621--625, 2005.}
+
+\bibitem[Charach 2010]{charach}
+\abntrefinfo{Charach}{CHARACH}{2010}
+{CHARACH, A. Trasntorno de defict de atenção/hiperatividade.
+2010.}
+
+\bibitem[Clua e Bittencourt 2005]{clua2005desenvolvimento}
+\abntrefinfo{Clua e Bittencourt}{CLUA; BITTENCOURT}{2005}
+{CLUA, E. W.~G.; BITTENCOURT, J.~R. Desenvolvimento de jogos 3d:
+  concep{\c{c}}{\~a}o, design e programa{\c{c}}{\~a}o. In:  \emph{XXIV Jornadas
+  de Atualiza{\c{c}}{\~a}o em Inform{\'a}tica (JAI) Part of XXIV Congresso da
+  Sociedade Brasileira de Computa{\c{c}}{\~a}o}. [S.l.: s.n.], 2005. p.
+  22--29.}
+
+\bibitem[CUNHA 1997]{cunha1997brincar}
+\abntrefinfo{CUNHA}{CUNHA}{1997}
+{CUNHA, N. H.~S. Brincar, pensar e conhecer: brinquedos, jogos e atividades.
+\emph{S{\~a}o Paulo: Maltese}, 1997.}
+
+\bibitem[Deitel, Steinbuhler e Deitel 2003]{deitel2002}
+\abntrefinfo{Deitel, Steinbuhler e Deitel}{DEITEL; STEINBUHLER; DEITEL}{2003}
+{DEITEL, H.; STEINBUHLER, K.; DEITEL, P. \emph{C Como Programar}. [S.l.: s.n.],
+  2003.}
+
+\bibitem[DSM-IV 1994]{dsmiv}
+\abntrefinfo{DSM-IV}{DSM-IV}{1994}
+{DSM-IV, A.~A. of P. \emph{Diagnostic and statistical manual of mental
+  disorders}.
+[S.l.], 1994.}
+
+\bibitem[Guedes 2009]{guedes2009}
+\abntrefinfo{Guedes}{GUEDES}{2009}
+{GUEDES, G. T.~A. \emph{UML 2 uma abordagem prática}. [S.l.: s.n.], 2009.}
+
+\bibitem[Marques, Silva e Marques 2011]{marquesandsilva}
+\abntrefinfo{Marques, Silva e Marques}{MARQUES; SILVA; MARQUES}{2011}
+{MARQUES, A.; SILVA, B.~D.; MARQUES, N. A influencia dos videogames no
+  rendimento escolar dos alunos: Uma experiencia no ii e iii ciclo do ensino
+  basico.
+2011.}
+
+\bibitem[MELO 2011]{melo2011}
+\abntrefinfo{MELO}{MELO}{2011}
+{MELO, V. M. d.~C. A importancia do ludico para crianças com transtorno e
+  deficit de atenção e hiperatividade (tdah) na educação infantil.
+2011.}
+
+\bibitem[Mesquita 2009]{mesquita2009}
+\abntrefinfo{Mesquita}{MESQUITA}{2009}
+{MESQUITA, R.~C. de.
+\emph{A implicação do educador diante do tdah: repetição do discurso
+  médico ou construção educacional}.
+Tese, 2009.}
+
+\bibitem[Peixoto e Rodrigues 2008]{peixotoErodrigues}
+\abntrefinfo{Peixoto e Rodrigues}{PEIXOTO; RODRIGUES}{2008}
+{PEIXOTO, A. L.~B.; RODRIGUES, M. M.~P. Diagnóstico e tratamento de tdah em
+  crianças escolares, segundo profissionais da saúde mental. In:  ALETHEIA
+  (Ed.). [S.l.: s.n.], 2008.}
+
+\bibitem[Pietruchinski et al. 2011]{pietruchinski}
+\abntrefinfo{Pietruchinski et al.}{PIETRUCHINSKI et al.}{2011}
+{PIETRUCHINSKI, M.~H. et al. Os jogos educativos no contexto do sbie: uma
+  revis{\~a}o sistem{\'a}tica de literatura. In:  \emph{Brazilian Symposium on
+  Computers in Education (Simp{\'o}sio Brasileiro de Inform{\'a}tica na
+  Educa{\c{c}}{\~a}o-SBIE)}. [S.l.: s.n.], 2011. v.~1, n.~1.}
+
+\bibitem[Ribeiro 2012]{ribeiro2012}
+\abntrefinfo{Ribeiro}{RIBEIRO}{2012}
+{RIBEIRO, L.~F.
+\emph{Modelagem de software utilizando UML: Análise comparativa entre as
+  ferramentas Astah UML e Umbrello UML Modeller}.
+Monografia, 2012.}
+
+\bibitem[Rizzo et al. 2009]{rizzo2009virtual}
+\abntrefinfo{Rizzo et al.}{RIZZO et al.}{2009}
+{RIZZO, A.~A. et al. A virtual reality scenario for all seasons: the virtual
+  classroom.
+\emph{Cns Spectrums}, Cambridge University Press, v.~11, n.~1, p. 35--44,
+  2009.}
+
+\bibitem[Rohde, Barbosa e Polanczyk 2000]{rhode&barbosa2000}
+\abntrefinfo{Rohde, Barbosa e Polanczyk}{ROHDE; BARBOSA; POLANCZYK}{2000}
+{ROHDE, L.~A.; BARBOSA, G.; POLANCZYK, G. Transtorno de defict de
+  atenção/hiperatividade.
+\emph{Rev. Bras. Psiquiatr.}, 2000.}
+
+\bibitem[Rouse 2010]{rouse2010game}
+\abntrefinfo{Rouse}{ROUSE}{2010}
+{ROUSE, R. \emph{Game design: Theory and practice}. [S.l.]: Jones \& Bartlett
+  Learning, 2010.}
+
+\bibitem[Silva, Lopes e Carvalho 2017]{da2017desenvolvimento}
+\abntrefinfo{Silva, Lopes e Carvalho}{SILVA; LOPES; CARVALHO}{2017}
+{SILVA, F.~R. da; LOPES, V.~L.; CARVALHO, M.~A. de. Desenvolvimento de jogos na
+  plataforma unity.
+\emph{RE3C-Revista Eletr{\^o}nica Cient{\'\i}fica de Ci{\^e}ncia da
+  Computa{\c{c}}{\~a}o}, v.~11, n.~1, 2017.}
+
+\bibitem[Smith e Strick 2001]{smithandstrick}
+\abntrefinfo{Smith e Strick}{SMITH; STRICK}{2001}
+{SMITH, C.; STRICK, L. \emph{Dificuldadees de Aprendizagem de A a Z: Um guia
+  completo para pais e educadores}. [S.l.: s.n.], 2001.}
+
+\bibitem[Stroh 2010]{stroh2010tdah}
+\abntrefinfo{Stroh}{STROH}{2010}
+{STROH, J.~B. Tdah-diagn{\'o}stico psicopedag{\'o}gico e suas
+  interven{\c{c}}{\~o}es atrav{\'e}s da psicopedagogia e da arteterapia.
+\emph{Constru{\c{c}}{\~a}o psicopedag{\'o}gica}, Instituto Sedes Sapientiae,
+  v.~18, n.~17, p. 83--105, 2010.}
+
+\bibitem[TAVARES 2008]{tavares2008apoio}
+\abntrefinfo{TAVARES}{TAVARES}{2008}
+{TAVARES, H.~V. Apoio pedag{\'o}gico {\`a}s crian{\c{c}}as com necessidades
+  educacionais especiais dislexia e tdah.
+\emph{Monografia). Faculdade de Medicina do ABC--Centro de Refer{\^e}ncia em
+  Dist{\'u}rbios de Aprendizagem}, 2008.}
+
+\bibitem[Unity 2017]{unity2017a}
+\abntrefinfo{Unity}{UNITY}{2017a}
+{UNITY. \emph{Crie jogos, conecte-se com seu público e triunfe}. 2017.
+Dispon{\'\i}vel em: $<$https:\-/\-/unity3d\-.com\-/pt\-/unity$>$.}
+
+\bibitem[Unity 2017]{unity2017b}
+\abntrefinfo{Unity}{UNITY}{2017b}
+{UNITY. \emph{Crie uma vez, implemente onde quiser}. 2017.
+Dispon{\'\i}vel em:
+  $<$https:\-/\-/unity3d\-.com\-/pt\-/unity\-/multiplatform$>$.}
+
+\bibitem[Wazlawick 2010]{wazlawick}
+\abntrefinfo{Wazlawick}{WAZLAWICK}{2010}
+{WAZLAWICK, R. \emph{Análise e Projeto de Sistemas de Informação
+  Orientados}. [S.l.: s.n.], 2010.}
+
+\end{thebibliography}

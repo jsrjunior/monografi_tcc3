@@ -1,0 +1,28 @@
+\select@language {brazil}
+\addvspace {10pt}
+\addvspace {10pt}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {1}{\ignorespaces Exemplo de diagrama de caso de uso.}}{22}{figure.3.1}
+\contentsline {figure}{\numberline {2}{\ignorespaces Exemplo de diagrama de classes.}}{23}{figure.3.2}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {3}{\ignorespaces Diagrama de Caso de Uso do \textit {Adventures os Learning}.}}{29}{figure.4.3}
+\contentsline {figure}{\numberline {4}{\ignorespaces Diagrama de Caso de Classes do \textit {Adventures os Learning}}}{30}{figure.4.4}
+\contentsline {figure}{\numberline {5}{\ignorespaces Menu inicial do jogo \textit {Adventures Of Learning}}}{31}{figure.4.5}
+\contentsline {figure}{\numberline {6}{\ignorespaces \textit {Sprite} do \textit {Player }Parado.}}{33}{figure.4.6}
+\contentsline {figure}{\numberline {7}{\ignorespaces In\IeC {\'\i }cio da \textit {scene} fase01 respons\IeC {\'a}vel pela primeira fase.}}{33}{figure.4.7}
+\contentsline {figure}{\numberline {8}{\ignorespaces \textit {Components} do \textit {game} \textit {object \IeC {\textquotedblleft }Player\IeC {\textquotedblright }}.}}{34}{figure.4.8}
+\contentsline {figure}{\numberline {9}{\ignorespaces Plataformas com \textit {Box Collider 2d} da \textit {scene} \IeC {\textquotedblleft }fase01\IeC {\textquotedblright }.}}{35}{figure.4.9}
+\contentsline {figure}{\numberline {10}{\ignorespaces Objeto \textit {player} na aba \textit {scene} mostrando os colisores.}}{36}{figure.4.10}
+\contentsline {figure}{\numberline {11}{\ignorespaces Conjunto de sprites para movimento.}}{36}{figure.4.11}
+\contentsline {figure}{\numberline {12}{\ignorespaces Aba \textit {Animator} no \textit {Unity}.}}{37}{figure.4.12}
+\contentsline {figure}{\numberline {13}{\ignorespaces \textit {Sprite} do inimigo ZumbiM.}}{38}{figure.4.13}
+\contentsline {figure}{\numberline {14}{\ignorespaces Conjunto de \textit {sprites} para movimento do Inimigo ZumbiM.}}{38}{figure.4.14}
+\contentsline {figure}{\numberline {15}{\ignorespaces Item \IeC {\textquotedblleft }1UP\IeC {\textquotedblright }}}{40}{figure.4.15}
+\contentsline {figure}{\numberline {16}{\ignorespaces Castelo de pedra no final da fase}}{40}{figure.4.16}
+\contentsline {figure}{\numberline {17}{\ignorespaces Primeiro desafio, jogo da memoria}}{41}{figure.4.17}
+\contentsline {figure}{\numberline {18}{\ignorespaces Tela de sucesso final}}{41}{figure.4.18}
+\addvspace {10pt}
+\addvspace {10pt}
+\addvspace {10pt}
+\addvspace {10pt}
+\addvspace {10pt}
